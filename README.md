@@ -1,2 +1,2 @@
 <br>
-GreenKart- An Online E-Commerce Website selling environmentally sustainable products.
+GreenKart- An Online E-Commerce Website selling environmentally sustainable products. 
